@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MuhammadAlgshy
 - 👀 I’m interested in Digital Transformation
-- 🌱 I’m currently Studying Digital Business Management at the University of Portsmouth ...
-- 💞️ I’m looking to collaborate on Digital Transformation Strategies, Leading Development Teams, Digital Consultatncy.
+- 🌱 I have an MSc in Digital Business Management from the University of Portsmouth ...
+- 💞️ Happy to collaborate on Digital Transformation Strategies, Leading Development Teams, Digital Consultancy.
 - 📫 How to reach me ...
 - Linkedin: https://www.linkedin.com/in/muhammadalgshy/
 <!---
